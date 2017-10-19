@@ -12,3 +12,10 @@ Slap Jack Rules:
 9. If the card placed in the pile is a jack but no one slaps the card, the players just place the next card in the pile
 10. You repeat steps 6,7 and if the card is a jack again, also repeat step 8. If step 9 also applies, just repeat steps 6 and 7. 
 11. If one of the players slaps a card in the pile that is not a jack, the other player must give that card he slaped to another player since the the player got a "penalty card" for slapping a card that is not a jack.
+12. If you have the whole deck:
+     then you win the game:
+    Else if another person has the whole deck:
+     then the player wins the game
+    Else:
+     While no one has the whole deck:
+      Then you play another round
